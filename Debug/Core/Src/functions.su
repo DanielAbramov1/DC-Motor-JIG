@@ -1,0 +1,3 @@
+../Core/Src/functions.c:26:5:current_check	16	static
+../Core/Src/functions.c:42:5:motor_timeout_check	8	static
+../Core/Src/functions.c:55:6:sequence_start	24	static

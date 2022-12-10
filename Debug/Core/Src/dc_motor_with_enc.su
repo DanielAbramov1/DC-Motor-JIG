@@ -1,0 +1,3 @@
+../Core/Src/dc_motor_with_enc.c:24:6:motor_init	24	static
+../Core/Src/dc_motor_with_enc.c:51:6:spin_motor	24	static
+../Core/Src/dc_motor_with_enc.c:73:6:motor_mode	16	static
